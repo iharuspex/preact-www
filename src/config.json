@@ -11,7 +11,8 @@
 		"pt-br": "Brazilian Portuguese",
 		"de": "German",
 		"it": "Italian",
-		"kr": "Korean"
+		"kr": "Korean",
+		"ru": "Russian"
 	},
 	"repo": "preact",
 	"docsearch": {
@@ -29,7 +30,8 @@
 			"it": "Pagina Successiva",
 			"pt-br": "Próxima Página",
 			"zh": "下一页",
-			"kr": "다음"
+			"kr": "다음",
+			"ru": "Следующая страница"
 		},
 		"previous": {
 			"en": "Previous Page",
@@ -41,7 +43,8 @@
 			"it": "Pagina Precedente",
 			"pt-br": "Página Anterior",
 			"zh": "上一页",
-			"kr": "이전"
+			"kr": "이전",
+			"ru": "Предыдущая страница"
 		},
 		"continueReading": {
 			"en": "Continue reading",
